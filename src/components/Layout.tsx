@@ -35,6 +35,7 @@ const Layout = (props: LayoutProps) => {
                 &copy; 2025
             </p>
         </footer>
+        <div>ふやした</div>
     </div>
   )
 }
